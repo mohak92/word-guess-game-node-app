@@ -1,1 +1,1 @@
-# word-guess-game-node-app
+# Word Guess Game (Node.JS commandline hangman game)
