@@ -14,7 +14,7 @@ npm install
 2. chalk
 
 ## How to Run:
-![](liriApp.gif)
+![](assets/img/word-guess-nodejs.gif)
 ```bash
 node index.js 
 ```
